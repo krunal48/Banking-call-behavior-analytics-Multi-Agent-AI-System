@@ -1,6 +1,9 @@
-# SAGE - Sentiment Agent-based Guidance Engine
+# CallSenseAI SAGE
+A Multi-Agent AI System for Banking Call Transcript Behavioural Analysis
 
-SAGE is an advanced multi-agent AI system designed to analyze customer service audio calls. It leverages a team of specialized AI agents to transcribe, analyze, and report on call data, providing actionable insights for businesses to enhance customer experience, identify operational inefficiencies, and detect emerging trends.
+CallSenseAI is a multi-agent conversational analytics system designed to automatically analyze customer service call transcripts in banking environments. The system identifies **customer intent**, **sentiment**, and **root cause issues** to support Quality Assurance teams and improve customer satisfaction.
+
+It's an advanced multi-agent AI system designed to analyze customer service audio calls. It leverages a team of specialized AI agents to transcribe, analyze, and report on call data, providing actionable insights for businesses to enhance customer experience, identify operational inefficiencies, and detect emerging trends.
 
 The system is built with a modern Streamlit user interface, allowing users to easily upload audio files, view comprehensive analysis reports, and engage in a follow-up chat to ask deeper questions about the results.
 
